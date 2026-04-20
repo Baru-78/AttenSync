@@ -29,11 +29,7 @@
 
 ---
 
-## 🖥️ Screenshots
 
-> *(Add screenshots of the login page, attendance page, and defaulter panel here)*
-
----
 
 ## 🏗️ Project Structure
 
